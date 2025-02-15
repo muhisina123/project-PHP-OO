@@ -50,7 +50,6 @@ This project is a dynamic blog website where users can browse articles, search f
 - Implement a comment section for articles.
 - Add a category/tag system for better content filtering.
 - Improve user profile customization options.
-- Enable image uploads for articles.
 
 ## Contributors
 - **muhisina** – Developer
